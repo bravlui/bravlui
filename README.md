@@ -37,7 +37,7 @@ Currently, my research focuses on developing probabilistic and contextual learni
 Beyond research, I enjoy writing about technology, artificial intelligence, learning, and the relationship between specialization and interdisciplinary thinking.
 
 * LinkedIn: [www.linkedin.com/in/luiz-gustavo-bravo](http://www.linkedin.com/in/luiz-gustavo-bravo)
-* Medium: medium.com/@luizgustavobravo
+* Medium: [medium.com/@luizgustavobravo](https://medium.com/@luizgustavobravo)
 
 ## A Thought That Guides My Work
 
