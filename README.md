@@ -62,23 +62,21 @@ Evaluation of graph sampling strategies and their impact on preserving network s
 
 ## Research Journey
 
-Statistics
+```mermaid
+graph TD
+    A[Research Journey Statistics] --> B[Data Science]
+    B --> C[Machine Learning]
+    C --> D[Information Retrieval + Computer Vision + Graph Learning]
+    D --> E[Probabilistic Artificial Intelligence]
 
-↓
+    %% Estilização opcional para melhorar o visual
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bfb,stroke:#333,stroke-width:2px
+    style D fill:#fbb,stroke:#333,stroke-width:2px
+    style E fill:#fff,stroke:#333,stroke-width:4px
+```
 
-Data Science
-
-↓
-
-Machine Learning
-
-↓
-
-Information Retrieval + Computer Vision + Graph Learning
-
-↓
-
-Probabilistic Artificial Intelligence
 
 ---
 
