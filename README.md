@@ -60,26 +60,6 @@ Evaluation of graph sampling strategies and their impact on preserving network s
 
 ---
 
-## Research Journey
-
-```mermaid
-graph TD
-    %% Nós do Fluxograma
-    A[Research Journey Statistics] --> B[Data Science]
-    B --> C[Machine Learning]
-    C --> D[Information Retrieval + Computer Vision + Graph Learning]
-    D --> E[Probabilistic Artificial Intelligence]
-
-    %% Estilização Escura (Alta Visibilidade no Tema Preto)
-    style A fill:#4A154B,stroke:#fff,stroke-width:1px,color:#fff
-    style B fill:#1F2937,stroke:#fff,stroke-width:1px,color:#fff
-    style C fill:#065F46,stroke:#fff,stroke-width:1px,color:#fff
-    style D fill:#1E3A8A,stroke:#fff,stroke-width:1px,color:#fff
-    style E fill:#7C2D12,stroke:#fff,stroke-width:2px,color:#fff
-```
-
----
-
 ## Writing
 
 Beyond research, I enjoy writing about technology, artificial intelligence, learning, interdisciplinarity, and the relationship between people and knowledge.
